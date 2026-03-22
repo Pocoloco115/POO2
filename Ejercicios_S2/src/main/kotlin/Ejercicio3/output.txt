@@ -1,0 +1,5 @@
+Rutas de buses creadas
+====================================================================================================
+El bus con número de ruta 101 ha iniciado su recorrido con el conductor Juan Perez.
+====================================================================================================
+El bus con número de ruta 202 ha iniciado su recorrido con el conductor Maria Gomez.

@@ -1,0 +1,10 @@
+Ejercicio 10 – Sistema de biblioteca universitaria
+Contexto: La biblioteca de la universidad quiere registrar libros.
+
+Actividad:
+Crear una clase Libro con atributos:
+•	titulo
+•	autor
+•	añoPublicacion
+
+Crear método mostrarInformacion() y registrar 4 libros de tecnología o programación.

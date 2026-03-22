@@ -1,0 +1,9 @@
+Primer estado de la cuenta
+El saldo actual de la cuenta 123456 es: 1000.0
+==============================================================
+Estado de la cuenta después del depósito
+El saldo actual de la cuenta 123456 es: 1500.0
+==============================================================
+Estado de la cuenta después del retiro
+El saldo actual de la cuenta 123456 es: 1300.0
+==============================================================

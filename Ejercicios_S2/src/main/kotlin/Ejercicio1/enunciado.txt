@@ -1,0 +1,12 @@
+Ejercicio 1 – Registro de estudiantes universitarios
+Contexto: La universidad necesita un sistema sencillo para registrar estudiantes de Ingeniería en Sistemas.
+
+Actividad:
+Crear una clase llamada Estudiante con los atributos:
+•	nombre
+•	carnet
+•	carrera
+•	año
+
+Crear un método mostrarDatos() que imprima la información del estudiante.
+Crear al menos 3 objetos Estudiante y mostrar sus datos.

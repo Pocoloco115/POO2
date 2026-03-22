@@ -1,0 +1,7 @@
+Pedidos creados
+Pedido(cliente=Carlos, platillo=Tacos, precio=50.0)
+================================================================
+Pedido(cliente=Ana, platillo=Enchiladas, precio=70.0)
+================================================================
+Pedido(cliente=Esteban, platillo=Carne asada, precio=50.0)
+================================================================

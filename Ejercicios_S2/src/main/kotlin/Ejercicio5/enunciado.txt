@@ -1,0 +1,14 @@
+Ejercicio 5 – Sistema de banco
+Contexto: Un banco nacional desea modelar cuentas bancarias.
+
+Actividad:
+Crear una clase CuentaBancaria con atributos privados:
+•	numeroCuenta
+•	saldo
+
+Crear métodos:
+•	depositar()
+•	retirar()
+•	consultarSaldo()
+
+Aplicar encapsulación.

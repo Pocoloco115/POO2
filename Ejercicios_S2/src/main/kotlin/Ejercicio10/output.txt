@@ -1,0 +1,21 @@
+Libros creados
+================================
+Título: Cien años de soledad
+Autor: Gabriel García Márquez
+Páginas: 1967
+================================================================
+================================
+Título: Don Quijote de la Mancha
+Autor: Miguel de Cervantes
+Páginas: 1605
+================================================================
+================================
+Título: La sombra del viento
+Autor: Carlos Ruiz Zafón
+Páginas: 2001
+================================================================
+================================
+Título: El amor en los tiempos del cólera
+Autor: Gabriel García Márquez
+Páginas: 1985
+================================================================

@@ -1,0 +1,11 @@
+Ejercicio 6 – Sistema de taxis
+Contexto: Una cooperativa de taxis de Granada quiere registrar sus vehículos.
+
+Actividad:
+Crear una clase Taxi con atributos:
+•	placa
+•	conductor
+•	modelo
+
+Crear método iniciarServicio().
+Crear 3 taxis.

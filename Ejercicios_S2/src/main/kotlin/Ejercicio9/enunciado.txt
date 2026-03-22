@@ -1,0 +1,13 @@
+Ejercicio 9 – Herencia en el sistema educativo
+Contexto: La universidad desea modelar las personas dentro del sistema académico.
+
+Actividad:
+Crear clase Persona con atributos:
+•	nombre
+•	edad
+
+Crear clases hijas:
+•	Docente
+•	Estudiante
+
+Agregar atributos adicionales a cada clase.

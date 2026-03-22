@@ -1,0 +1,10 @@
+Ejercicio 8 – Sistema de pedidos en una fritanga
+Contexto: Una fritanga local desea registrar pedidos de comida.
+
+Actividad:
+Crear una data class Pedido con atributos:
+•	cliente
+•	platillo
+•	precio
+
+Crear 3 pedidos y mostrarlos en consola.

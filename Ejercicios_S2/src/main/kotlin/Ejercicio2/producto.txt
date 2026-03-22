@@ -1,0 +1,13 @@
+Productos creados
+============================
+Nombre: arroz
+Precio: 9.99
+Cantidad: 10
+============================
+Nombre: frijoles
+Precio: 19.99
+Cantidad: 20
+============================
+Nombre: azucar
+Precio: 29.99
+Cantidad: 15

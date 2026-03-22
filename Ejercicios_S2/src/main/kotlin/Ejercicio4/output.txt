@@ -1,0 +1,9 @@
+Programadores creados
+============================
+Nombre: Juan Perez
+Salario: 50000.0
+Lenguaje de Programación: Kotlin
+============================
+Nombre: Maria Gomez
+Salario: 60000.0
+Lenguaje de Programación: Java

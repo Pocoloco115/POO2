@@ -1,0 +1,5 @@
+Taxis creados
+====================================================================================================
+El taxi con placa 1J-9520 ha iniciado su servicio con el conductor Travis Bickle y modelo Checker Marathon.
+====================================================================================================
+El taxi con placa XYZ789 ha iniciado su servicio con el conductor Maria Gomez y modelo Honda Accord.

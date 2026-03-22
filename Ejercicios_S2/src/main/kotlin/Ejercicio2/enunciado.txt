@@ -1,0 +1,11 @@
+Ejercicio 2 – Sistema de productos de una pulpería
+Contexto: Una pulpería de barrio en Masaya necesita registrar sus productos.
+
+Actividad:
+Crear una data class llamada Producto con los atributos:
+•	nombre
+•	precio
+•	cantidad
+
+Crear 5 productos comunes de pulpería (arroz, frijoles, azúcar, aceite, jabón)
+y mostrarlos en consola.

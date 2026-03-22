@@ -1,0 +1,5 @@
+Personas creadas
+================================
+El docente Dr. Smith esta enseñando Matemáticas
+================================
+El estudiante Alice está estudiando Ingeniería de Software

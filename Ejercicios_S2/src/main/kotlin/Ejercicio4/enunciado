@@ -1,0 +1,10 @@
+Ejercicio 4 – Herencia en una empresa de software
+Contexto: Una empresa de desarrollo de software en Managua tiene diferentes tipos de empleados.
+
+Actividad:
+Crear una clase padre Empleado con atributos:
+•	nombre
+•	salario
+
+Crear una clase hija Programador que herede de Empleado.
+Agregar atributo lenguaje y mostrar la información.

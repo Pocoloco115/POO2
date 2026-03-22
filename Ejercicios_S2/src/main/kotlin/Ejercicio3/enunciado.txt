@@ -1,0 +1,11 @@
+Ejercicio 3 – Sistema de transporte urbano
+Contexto: La alcaldía desea modelar buses del transporte urbano.
+
+Actividad:
+Crear una clase Bus con los atributos:
+•	numeroRuta
+•	capacidad
+•	conductor
+
+Crear un método iniciarRuta().
+Crear 2 objetos Bus y ejecutar el método.

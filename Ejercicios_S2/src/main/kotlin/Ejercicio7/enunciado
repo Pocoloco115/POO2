@@ -1,0 +1,11 @@
+Ejercicio 7 – Interfaces para vehículos
+Contexto: Una empresa de logística usa diferentes tipos de transporte.
+
+Actividad:
+Crear una interfaz Vehiculo con método mover().
+
+Crear clases:
+•	Camion
+•	Motocicleta
+
+Ambas deben implementar el método mover().
