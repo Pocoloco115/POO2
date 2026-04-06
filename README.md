@@ -44,6 +44,22 @@ Este repositorio servirá como:
 - Evidencia del desarrollo de los ejercicios y proyectos
 - Material de consulta para repasar los temas vistos en clase
 
+## Índice de Proyectos
+
+A continuación, se listan algunos de los proyectos desarrollados durante el curso:
+
+1. **Cuarzo, papiro y navaja**
+   - Primera práctica evaluada de la asignatura
+   - App sencilla que simula el juego de cuarzo, papiro y navaja
+   - Implementa un bot sencillo que cumple con el rol del oponente
+   <details>
+      <summary>Ver preview</summary>
+   
+      ![Cuarzo, papiro y navaja](Media/cuarzo.gif)
+   
+    </details>
+      
+
 ---
 
 **Asignatura:** Programación Orientada a Objetos II  
