@@ -52,7 +52,7 @@ A continuación, se listan algunos de los proyectos desarrollados durante el cur
    - Primera práctica evaluada de la asignatura
    - App sencilla que simula el juego de cuarzo, papiro y navaja
    - Implementa un bot sencillo que cumple con el rol del oponente
-   <details>
+   <details align = "center">
       <summary>Ver preview</summary>
    
       ![Cuarzo, papiro y navaja](Media/cuarzo.gif)
